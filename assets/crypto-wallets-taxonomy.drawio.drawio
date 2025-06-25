@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6" pages="2">
   <diagram id="36RqeXvSD2yGZV3YzJqm" name="taxonomy">
-    <mxGraphModel dx="3715" dy="-14502" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3852" dy="-14425" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
           <mxGeometry x="-1946.31" y="16400" width="339.31" height="26" as="geometry" />
         </mxCell>
         <mxCell id="eNzvpo12T1x7vrXCcaBu-28" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fillColor=none;strokeColor=#0000CC;rotation=0;container=0;align=right;verticalAlign=bottom;spacingBottom=0;labelBackgroundColor=none;spacing=2;spacingRight=58;fontColor=#333333;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-2256" y="16040" width="989" height="286" as="geometry" />
+          <mxGeometry x="-2259" y="16040" width="989" height="286" as="geometry" />
         </mxCell>
         <mxCell id="eNzvpo12T1x7vrXCcaBu-29" value="&lt;i style=&quot;text-wrap-mode: nowrap;&quot;&gt;Phantom&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=0.5;fontSize=14;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2107" y="16203" width="204" height="18" as="geometry" />
@@ -139,6 +139,12 @@
         <mxCell id="eNzvpo12T1x7vrXCcaBu-13" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;i&gt;Binance&lt;/i&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;i&gt;Web3&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=0.5;dashed=1;dashPattern=8 8;fontSize=14;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-2114" y="16286" width="86" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="eNzvpo12T1x7vrXCcaBu-24" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fillColor=none;strokeColor=#999900;rotation=0;container=0;align=right;verticalAlign=bottom;spacingBottom=0;labelBackgroundColor=none;spacing=2;spacingRight=58;fontColor=#333333;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-2259" y="16231" width="989" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eNzvpo12T1x7vrXCcaBu-49" value="&lt;i&gt;&lt;font style=&quot;color: rgb(184, 84, 80); font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;leverages infrastructure&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1821" y="16262" width="139" height="19" as="geometry" />
+        </mxCell>
         <mxCell id="eNzvpo12T1x7vrXCcaBu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;strokeWidth=1;strokeColor=#b85450;fillColor=#f8cecc;endSize=11;" edge="1" parent="1" target="eNzvpo12T1x7vrXCcaBu-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1859" y="16217" as="targetPoint" />
@@ -149,7 +155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eNzvpo12T1x7vrXCcaBu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;startArrow=oval;startFill=0;startSize=10;strokeWidth=1;strokeColor=#b85450;entryX=0.248;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;endSize=11;" edge="1" parent="1" source="eNzvpo12T1x7vrXCcaBu-25" target="eNzvpo12T1x7vrXCcaBu-41">
+        <mxCell id="eNzvpo12T1x7vrXCcaBu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;startArrow=oval;startFill=0;startSize=7;strokeWidth=1;strokeColor=#b85450;entryX=0.248;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;endSize=11;" edge="1" parent="1" source="eNzvpo12T1x7vrXCcaBu-25" target="eNzvpo12T1x7vrXCcaBu-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1766" y="16280" />
@@ -157,12 +163,6 @@
             </Array>
             <mxPoint x="-1680" y="16217" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="eNzvpo12T1x7vrXCcaBu-49" value="&lt;i&gt;&lt;font style=&quot;color: rgb(184, 84, 80); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;leverages infrastructure&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1816" y="16262" width="129" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="eNzvpo12T1x7vrXCcaBu-24" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fillColor=none;strokeColor=#999900;rotation=0;container=0;align=right;verticalAlign=bottom;spacingBottom=0;labelBackgroundColor=none;spacing=2;spacingRight=58;fontColor=#333333;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-2256" y="16231" width="989" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
